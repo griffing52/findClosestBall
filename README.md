@@ -75,7 +75,7 @@ Usage
 Sample Code
 -----------
 
-python```# Define color range for yellow
+`# Define color range for yellow
 yellow_lower = np.array([90, 110, 70])
 yellow_upper = np.array([100, 255, 255])
 minimum_area_size = 4500
@@ -87,7 +87,7 @@ ball_img = find_closest_distance(image, yellow_lower, yellow_upper, minimum_area
 # Display result
 plt.figure(figsize=(12, 12))
 plt.imshow(ball_img)
-plt.show()```
+plt.show()`
 
 Notes and Calibration
 ---------------------
