@@ -3,6 +3,8 @@ Closest Ball Detection
 
 This Jupyter Notebook project is designed for an **FRC (FIRST Robotics Competition)** application where the goal is to detect and locate the closest ball to the camera based on color and contour analysis. The notebook utilizes computer vision techniques with OpenCV to identify balls based on color and shape, then calculates each ball's approximate distance and angle relative to the camera to highlight the nearest one.
 
+![download](https://github.com/user-attachments/assets/0f2bb70f-5c34-4d0f-b57a-006c9ccb491d)
+
 Requirements
 ------------
 
