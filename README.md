@@ -15,11 +15,7 @@ Requirements
 
 To install dependencies:
 
-bash
-
-Copy code
-
-`pip install opencv-python numpy matplotlib imutils`
+bash`pip install opencv-python numpy matplotlib imutils`
 
 Key Features
 ------------
